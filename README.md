@@ -9,7 +9,6 @@ To better understand the complexities of natural ecosystems and better manage an
 **Dataset:**
 <br>
 https://www.kaggle.com/alessiocorrado99/animals10
-
 This dataset contains  28000 animal pictures of 10 different categories taken from google images.
 The categories are  Dog, Cat, Horse, Spyder, Butterfly, Chicken , Sheep, Cow, Squirrel, Elephant.
 Each category has  around 2000-4000  images of a specific  animal .
