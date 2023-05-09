@@ -25,6 +25,7 @@ The CNN model which works on building a network, like a funnel, and finally give
 CNNs are one of the best learning algorithms for understanding and analyzing image content that has shown high performance in image segmentation, classification, detection, and retrieval related tasks.
 
 VGG16 Architecture
+
 VGG 16  is a CNN  architecture  which was used to win ILSVR  (imagenet) competition.
 It is consider to be one of the excellent vision model architecture till date.
 It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture .
