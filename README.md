@@ -14,11 +14,13 @@ The categories are  Dog, Cat, Horse, Spyder, Butterfly, Chicken , Sheep, Cow, Sq
 Each category has  around 2000-4000  images of a specific  animal .
 Each image is a 224 * 224 * 3 image which will be our input.
 
-Why use CNN model in particular? 
+Why use CNN model in particular?
+
 Image classification involves the extraction of features from the image to observe some patterns in the dataset. 
 Using an ANN for the purpose of image classification would end up being very costly in terms of computation since the trainable parameters become extremely large.
 
 How CNN works?
+
 The CNN model which works on building a network, like a funnel, and finally gives out a fully-connected layer where all the neurons are connected to each other and the output is processed. 
 CNNs are one of the best learning algorithms for understanding and analyzing image content that has shown high performance in image segmentation, classification, detection, and retrieval related tasks.
 
