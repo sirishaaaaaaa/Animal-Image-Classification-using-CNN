@@ -27,7 +27,6 @@ CNNs are one of the best learning algorithms for understanding and analyzing ima
 
 **VGG16 Architecture**
 <br>
-VGG 16  is a CNN  architecture  which was used to win ILSVR  (imagenet) competition.
-It is consider to be one of the excellent vision model architecture till date.
+VGG 16  is a CNN  architecture  is considered to be one of the excellent vision model architecture till date.
 It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture .
 This has 16 convolution layers
